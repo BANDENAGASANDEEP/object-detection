@@ -1,2 +1,4 @@
 voc/
 voc/
+!yolov5/runs/
+!yolov5/runs/**
