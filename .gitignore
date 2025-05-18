@@ -1,3 +1,5 @@
+!yolov5/runs/
+!yolov5/runs/**
 voc/
 voc/
 #!yolov5/runs/
