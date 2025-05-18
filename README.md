@@ -90,7 +90,8 @@ python detect.py \
 
 ## 🖼️ Sample Output
 
-> *(Optionally insert a sample image from the inference results folder)*
+> *![image](https://github.com/user-attachments/assets/463de181-b841-47e5-b5c0-0304db51c2cd)
+*
 
 ---
 
