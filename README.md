@@ -90,7 +90,10 @@ python detect.py \
 
 ## 🖼️ Sample Output
 
-> *![image](https://github.com/user-attachments/assets/463de181-b841-47e5-b5c0-0304db51c2cd)
+> *![image](https://github.com/user-attachments/assets/463de181-b841-47e5-b5c0-0304db51c2cd)![image](https://github.com/user-attachments/assets/be56267d-3b9f-4e6c-86f6-4e195de1c664)
+![image](https://github.com/user-attachments/assets/527c7d8f-129b-407c-97f4-ee90c18df93f)
+![image](https://github.com/user-attachments/assets/f64c9961-bfb8-4408-b9a2-929ade618e2e)
+
 *
 
 ---
